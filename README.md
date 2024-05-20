@@ -24,7 +24,7 @@
 ## About The Project
 
 <div align="center">
-  <img src="media/project-showcase.png" alt="Showcase" width="400" height="400">
+  <img src="media/project-showcase.png" alt="Showcase" width="600">
 </div>
 This repository was originally created to store and track my progress in developing programming skills using Python 3.
 However, it quickly became a place for storing solved exercises, ranging from basic to complex, which can help others in their endeavors.
