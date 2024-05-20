@@ -14,9 +14,9 @@
   The project repository is organized into folders by topic.
   <p align="center">
     <br />
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/ErnieSumoso/Python-Exercises/pulls">Pull Requests</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/ErnieSumoso/Python-Exercises/issues">Issues</a>
   </p>
 </div>
 
@@ -24,7 +24,7 @@
 ## About The Project
 
 <div align="center">
-  <img src="media/project-showcase.png" alt="Showcase" width="400" height="400">
+  <img src="media/project-showcase.png" alt="Showcase" width="600">
 </div>
 This repository was originally created to store and track my progress in developing programming skills using Python 3.
 However, it quickly became a place for storing solved exercises, ranging from basic to complex, which can help others in their endeavors.
