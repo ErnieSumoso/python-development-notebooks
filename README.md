@@ -88,7 +88,7 @@ I am always open for any suggestions on what exercises to solve. Please, add the
 <!-- CONTACT -->
 ## Contact
 
-Ernie Sumoso - [GitHub Profile](https://github.com/ErnieSumoso)
+Ernie Sumoso - [GitHub Profile](https://github.com/ErnieSumoso) - [My Repositories](https://github.com/ErnieSumoso?tab=repositories)
 
 Project Link: https://github.com/ErnieSumoso/Python-Exercises
 
