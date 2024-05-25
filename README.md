@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ErnieSumoso/Python-Exercises">
-    <img src="media/project-icon.png" alt="Icon" width="80" height="80">
+  <a href="https://github.com/ErnieSumoso/python-exercises">
+    <img src="readme-files/project-icon.png" alt="Icon" width="80" height="80">
   </a>
 
 <h3 align="center">Python Exercises Repository</h3>
@@ -14,9 +14,9 @@
   The project repository is organized into folders by topic.
   <p align="center">
     <br />
-    <a href="https://github.com/ErnieSumoso/Python-Exercises/pulls">Pull Requests</a>
+    <a href="https://github.com/ErnieSumoso/python-exercises/pulls">Pull Requests</a>
     ·
-    <a href="https://github.com/ErnieSumoso/Python-Exercises/issues">Issues</a>
+    <a href="https://github.com/ErnieSumoso/python-exercises/issues">Issues</a>
   </p>
 </div>
 
@@ -24,7 +24,7 @@
 ## About The Project
 
 <div align="center">
-  <img src="media/project-showcase.png" alt="Showcase" width="600">
+  <img src="readme-files/project-showcase.png" alt="Showcase" width="600">
 </div>
 This repository was originally created to store and track my progress in developing programming skills using Python 3.
 However, it quickly became a place for storing solved exercises, ranging from basic to complex, which can help others in their endeavors.
@@ -55,7 +55,7 @@ To run the code you need to have Python installed on your computer and JupyterLa
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ErnieSumoso/Python-Exercises.git
+   git clone https://github.com/ErnieSumoso/python-exercises.git
    ```
 2. Explore the files and enjoy!
 
@@ -81,7 +81,7 @@ Here are some resources that I use for help:
 - [ ] Add machine learning exercises
 - [ ] Complete the 101 natural language processing problems
 
-I am always open for any suggestions on what exercises to solve. Please, add them on the [issues section](https://github.com/ErnieSumoso/Python-Exercises/issues).
+I am always open for any suggestions on what exercises to solve. Please, add them on the [issues section](https://github.com/ErnieSumoso/python-exercises/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,7 +90,7 @@ I am always open for any suggestions on what exercises to solve. Please, add the
 
 Ernie Sumoso - [GitHub Profile](https://github.com/ErnieSumoso) - [My Repositories](https://github.com/ErnieSumoso?tab=repositories)
 
-Project Link: https://github.com/ErnieSumoso/Python-Exercises
+Project Link: https://github.com/ErnieSumoso/python-exercises
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
