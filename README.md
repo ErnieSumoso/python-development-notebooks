@@ -43,7 +43,8 @@ Feel free to explore the problems and my solutions!
 
 ## Getting Started
 
-As this is a repository to store exercises, you only need basic Python and Jupyter software installations.
+As this is a repository to store exercises, you only need basic Python and JupyterLab or Jupyter Notebook installations.
+Using Anaconda Navigator is recommeded.
 
 ### Prerequisites
 
