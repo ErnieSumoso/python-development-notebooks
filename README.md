@@ -7,10 +7,11 @@
     <img src="readme-files/project-icon.png" alt="Icon" width="80" height="80">
   </a>
 
-<h3 align="center">Python Exercises Repository</h3>
+<h3 align="center">Python Development Repository</h3>
 
-  I use this repository to store my Python programming exercises.
-  I have uploaded mostly everything from basic exercises to complex problems in separate files.
+  I use this repository to store my Python development notebooks.
+  From programming exercises, to machine learning, natural language processing, and deep learning,
+  I have uploaded mostly everything including complex projects in separate files.
   The project repository is organized into folders by topic.
   <p align="center">
     <br />
