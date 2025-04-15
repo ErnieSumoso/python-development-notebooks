@@ -3,18 +3,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ErnieSumoso/python-exercises">
+  <a href="https://github.com/ErnieSumoso/python-development-notebooks">
     <img src="readme-files/project-icon.png" alt="Icon" width="80" height="80">
   </a>
 
 <h3 align="center">Python Development Repository</h3>
-
-  I use this repository to store most of my Python notebooks from JupyterLab. From programming exercises, to machine learning, natural language processing, and deep learning exercises, I have uploaded everything and organized them into different folders for each specific topic.
+<b>### Final version - no additional updates planned ###</b> <br><br>
+  This repository contains many of my early Python notebooks and coding solutions. From programming exercises, to machine learning, and natural language processing, I have organized everything into different folders for each specific topic.
   <p align="center">
     <br />
-    <a href="https://github.com/ErnieSumoso/python-exercises/pulls">Pull Requests</a>
+    <a href="https://github.com/ErnieSumoso/python-development-notebooks/pulls">Pull Requests</a>
     ·
-    <a href="https://github.com/ErnieSumoso/python-exercises/issues">Issues</a>
+    <a href="https://github.com/ErnieSumoso/python-development-notebooks/issues">Issues</a>
   </p>
 </div>
 
@@ -24,7 +24,7 @@
 <div align="center">
   <img src="readme-files/project-showcase.jpg" alt="Showcase" width="600">
 </div>
-This repository was originally created to store and track my progress in programming skills using Python 3. Please note that some of these solutions were programmed a while ago when I was starting my learning journey. Not all solutions have been optimzed and revised, though this repository is an intended way to keep my notebooks organized. All exercises were solved using JupyterLab to ease the process of visualizing results and testing. Feel free to explore the problems and my solutions.
+This repository was originally created to store and track my progress in programming skills using Python 3. Please note that some of these solutions were programmed a while ago when I was starting my learning journey. Not all solutions have been optimzed and revised, though this repository was an intended way to keep my notebooks organized. All problems were solved using JupyterLab to ease the process of visualizing results and testing. Feel free to explore the files and try other solutions yourself!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -39,11 +39,12 @@ This repository was originally created to store and track my progress in program
 
 ## Getting Started
 
-This is a basic repository to store exercises, you only need Python and JupyterLab (or Jupyter Notebook) installed on your computer. Using Anaconda Navigator is recommeded, but not required.
+As this repository contains mostly Jupyter Notebook files, you only need basic Python and Jupyter software installations.
+Using Anaconda Navigator is recommeded, but not required.
 
 ### Prerequisites
 
-To run the code you need to have Python installed on your computer and JupyterLab (or Notebook) for file editing.
+To run the code you need Python 3 installed on your computer and JupyterLab (or Jupyter Notebook) for file editing.
 * [Python 3+](https://www.python.org/downloads/)
 * [JupyterLab 4.0+](https://jupyter.org/install) or Jupyer Notebook
 
@@ -51,29 +52,31 @@ To run the code you need to have Python installed on your computer and JupyterLa
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ErnieSumoso/python-exercises.git
+   git clone https://github.com/ErnieSumoso/python-development-notebooks.git
    ```
-2. Install and open JupyterLab.
-3. Explore the files and enjoy!
+2. Explore the files and enjoy!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Usage
 
-You can use this repository to solve the problems yourself, try new approaches and share your solutions.
+You can use this repository to solve the problems yourself by trying a different approach, or to explore my own solutions!
 
-Here are some resources that can help:
+These are some resources that helped me practice:
 
 - [Python 3 Documentation](https://docs.python.org/3/)
-- [Stack Overflow](https://stackoverflow.com/)
 - [101 NLP Exercises](https://www.machinelearningplus.com/nlp/nlp-exercises/)
+- [LeetCode Problems using Python](https://leetcode.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## Roadmap
-I am always open for any suggestions on what exercises to solve next. Please, add them on the [issues section](https://github.com/ErnieSumoso/python-exercises/issues).
+- [✓] Upload the most recent versions of the notebooks.
+- [✓] Follow file naming conventions, and remove redundant content.
+- [✓] Complete the last project updates.
+
+I am always open for any suggestions or new exercises to solve next. Please, add them on the [issues section](https://github.com/ErnieSumoso/python-development-notebooks/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
