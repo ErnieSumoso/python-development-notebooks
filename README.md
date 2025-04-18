@@ -22,7 +22,7 @@
 ## About The Project
 
 <div align="center">
-  <img src="readme-files/project-showcase.jpg" alt="Showcase" width="600">
+  <img src="readme-files/project-showcase.png" alt="Showcase" width="600">
 </div>
 This repository was originally created to store and track my progress in programming skills using Python 3. Please note that some of these solutions were programmed a while ago when I was starting my learning journey. Not all solutions have been optimzed and revised, though this repository was an intended way to keep my notebooks organized. All problems were solved using JupyterLab to ease the process of visualizing results and testing. Feel free to explore the files and try other solutions yourself!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
