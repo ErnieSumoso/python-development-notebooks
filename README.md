@@ -9,7 +9,7 @@
 
 <h3 align="center">Python Development Repository</h3>
 <b>### Final version - no additional updates planned ###</b> <br><br>
-  This repository contains many of my early Python notebooks and coding solutions. From programming exercises, to machine learning, and natural language processing projects, I have organized everything into different folders for each specific topic.
+  This repository contains many of my early Python notebooks and coding solutions. From programming exercises, to machine learning problems, and natural language processing projects, I have organized everything into different folders for each specific topic.
   <p align="center">
     <br />
     <a href="https://github.com/ErnieSumoso/python-development-notebooks/pulls">Pull Requests</a>
